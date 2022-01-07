@@ -1,0 +1,47 @@
+
+
+body{
+    background-color:black;
+
+    padding-right: 200px ;
+    padding-left: 200px;
+    padding-top: 15px;
+    padding-bottom: 50px;
+}
+.container{
+    background-color:rgb(43,43,43);
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    border-radius: 5pxpx;
+    padding: 20px 20px;
+    font-family: 'Source Code Pro', monospace;
+    border-radius: 25px;
+    
+}
+.white{
+    color: white;
+}
+h1{
+    color:#f4e242;
+    font-family: 'Stylish', sans-serif;
+}
+/*#password{
+    background-color: black;
+}*/
+.black{
+    background-color: black;
+}
+.form-control form-control-lg{
+    background-color: black;
+}
+.btn btn-primary btn-lg{
+    color: aquamarine;
+}
+
+#person{
+    float: right;
+    width: 80px;
+    height: 80px;
+}

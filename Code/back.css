@@ -1,0 +1,17 @@
+.container{
+ align-content: center;
+    background-color: #92DFF3;
+text-align: center;
+width: 20%;
+    height: 350px;
+}
+body{
+    padding: 80px 80px;
+}
+h1{
+    text-align: center;
+    padding: 20px 20px;
+}
+h3{
+    text-align: center;
+}
